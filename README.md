@@ -1,7 +1,7 @@
 # Codepath-Prework
 My first repository on Github(Codepath Prework)
 
-<img src = "https://recordit.co/wZvC9S9RlG" width=200><br>
+<img src = "https://recordit.co/wZvC9S9RlG" width=200> <br>
 
 
 ### Required User Stories
