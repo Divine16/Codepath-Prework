@@ -1,7 +1,7 @@
 # Codepath-Prework
 My first repository on Github(Codepath Prework)
 
-<img src = "app_Gif.gif> <br>
+<img src = "app_Gif.gif" width = 200><br>
 
 
 ### Required User Stories
